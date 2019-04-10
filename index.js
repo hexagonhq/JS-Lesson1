@@ -20,7 +20,7 @@ alert(sum);
 
 // task 4
 var a = 17, b = 10;
-c = a - b;
+var c = a - b;
 var d = 7;
 var result = c + d;
 alert(result);
